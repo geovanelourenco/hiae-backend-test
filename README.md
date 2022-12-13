@@ -1,6 +1,6 @@
-# hiae-backend-test
+![Albert Einstein Logo](https://cockpit-asset.s3.amazonaws.com/images/logo_ae_branco.svg)
 
-# Live Code
+# Back-end developer test - Live Coding
 
 ## Desafios
 
@@ -25,7 +25,6 @@ const numbers = [1, 2, 3, 2, 1, 2, 4, 6, 5, 1, 3, 2, 9, 8, 1, 2, 3, 4];
 - Qual desses super-heróis não possui um poder sobre-humano? Homem-aranha, Lanterna Verde, Batman, Thor.
 
 #### Pensando nesse cenário, resolva as situações abaixo:
-a) Estruture os dados de forma coerente para salvamento em um banco de dados.
-
-b) Refletindo no banco de dados em si, você optaria por um banco relacional ou não relacional? Dircurse.
+ a) Estruture os dados de forma coerente para salvamento em um banco de dados.<br>
+ b) Refletindo no banco de dados em si, você optaria por um banco relacional ou não relacional? Dircurse.
 
